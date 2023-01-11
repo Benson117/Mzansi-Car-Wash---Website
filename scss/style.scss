@@ -1,0 +1,29 @@
+
+// Default
+	@import 'variables';
+	@import 'mixins';
+	@import 'overlay';
+	@import 'common';
+	@import 'color';
+
+	
+// Homepage1
+	@import 'headerMenu';
+	@import 'h1-hero';
+	
+	@import 'services_section';
+	@import 'video-area';
+	@import 'map';
+	@import 'visit-tailor';
+	@import 'about';
+	@import 'footer';
+
+	
+// inner Page
+
+
+// Default Element Page
+
+	@import 'contact';
+
+	@import 'elements';
